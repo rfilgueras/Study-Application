@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\bin\Debug\netcoreapp3.1\Data (Study Application).exe
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\bin\Debug\netcoreapp3.1\Data (Study Application).deps.json
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\bin\Debug\netcoreapp3.1\Data (Study Application).runtimeconfig.json
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\bin\Debug\netcoreapp3.1\Data (Study Application).runtimeconfig.dev.json
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\bin\Debug\netcoreapp3.1\Data (Study Application).dll
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\bin\Debug\netcoreapp3.1\Data (Study Application).pdb
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).AssemblyInfo.cs
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).dll
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).pdb
+\\Mac\Home\Desktop\ITP Fall 2020\Data (Study Application)\obj\Debug\netcoreapp3.1\Data (Study Application).genruntimeconfig.cache

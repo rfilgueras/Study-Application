@@ -1,0 +1,15 @@
+!=, ==, >, >=, <, and <= are examples of this operator. 
+!, &&,  and || are examples of this operator.
+It is a data type in C# that stores a true or false value.
+It is a data type in C# that stores a string of characters.
+It is a data type in C# that stores a larger number that can include a decimal.
+It is a data type in C# that stores a whole number.
+It is a set of simple instructions that  you can later translate into a programming language.
+It starts with a backslash(\) and then followed by a specific letter or combination of alphanumeric characters. It can break long text so that words aren’t split at the right the screen.
+It allows you to access an element in a class without first creating an instance of it.
+It indicates that a function won’t be returning a value.
+It is a name that a programmer thinks up for something they create in their application.
+It is often used in object-oriented languages to describe functions that are defined as part of a class.
+It executes zero or more times, until an expression evaluates to false.
+It will cycle through statements until a certain condition is met.
+It will run statements if the value in the parentheses matches the value after “case”. The keyword “break” will break the program flow out of it.

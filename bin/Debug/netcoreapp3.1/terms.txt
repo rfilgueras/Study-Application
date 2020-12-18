@@ -1,0 +1,15 @@
+Relational operators
+Logical operators
+Boolean
+String
+Double
+Integer
+Pseudocode
+Escape Sequence 
+static
+void
+identifier
+method
+while loop
+for loop
+switch
