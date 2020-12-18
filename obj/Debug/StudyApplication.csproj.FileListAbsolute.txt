@@ -1,6 +1,0 @@
-/Users/rhonafilgueras/Desktop/ITP Fall 2020/StudyApplication/StudyApplication/obj/Debug/StudyApplication.csprojAssemblyReference.cache
-/Users/rhonafilgueras/Desktop/ITP Fall 2020/StudyApplication/StudyApplication/obj/Debug/StudyApplication.csproj.CoreCompileInputs.cache
-/Users/rhonafilgueras/Desktop/ITP Fall 2020/StudyApplication/StudyApplication/bin/Debug/StudyApplication.exe
-/Users/rhonafilgueras/Desktop/ITP Fall 2020/StudyApplication/StudyApplication/bin/Debug/StudyApplication.pdb
-/Users/rhonafilgueras/Desktop/ITP Fall 2020/StudyApplication/StudyApplication/obj/Debug/StudyApplication.exe
-/Users/rhonafilgueras/Desktop/ITP Fall 2020/StudyApplication/StudyApplication/obj/Debug/StudyApplication.pdb
